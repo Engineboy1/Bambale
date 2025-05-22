@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Bambale/static/js/main.6d0d9ee7.js",
+    "main.js": "/Bambale/static/js/main.53931de5.js",
     "static/js/453.ed3810f9.chunk.js": "/Bambale/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Bambale/index.html",
-    "main.6d0d9ee7.js.map": "/Bambale/static/js/main.6d0d9ee7.js.map",
+    "main.53931de5.js.map": "/Bambale/static/js/main.53931de5.js.map",
     "453.ed3810f9.chunk.js.map": "/Bambale/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6d0d9ee7.js"
+    "static/js/main.53931de5.js"
   ]
 }
